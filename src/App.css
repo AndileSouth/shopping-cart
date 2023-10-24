@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --Main-background-color: white;
+  --Main-text-color:black;
+  --Home-background-color: rgb(211, 208, 208);
+  --User-pp-background-color: rgb(41, 7, 73);
+}
+
+.cursor:hover {
+  cursor: pointer;
+}

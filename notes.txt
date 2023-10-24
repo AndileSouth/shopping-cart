@@ -1,0 +1,1 @@
+make the home posts like a blog which will have a postcomponent with ids. just like the blog list

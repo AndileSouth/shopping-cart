@@ -1,0 +1,20 @@
+.NAVBAR {
+    background-color: var(--Main-text-color);
+}
+
+.links {
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    margin-right: 40px;
+}
+
+.links a,Link {
+    color: white;
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
